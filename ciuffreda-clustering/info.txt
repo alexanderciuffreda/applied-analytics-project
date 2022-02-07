@@ -1,0 +1,2 @@
+https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis/data
+customer segmentation
