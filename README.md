@@ -6,7 +6,7 @@ Three use cases for different ML methods are addressed in the context of the pay
 ### Regression
 For regression we want to predict the amount a customer spends on a day.
 ### Clustering
-In the classification we want to divide our customers into certain groups
+In the clustering we want to divide our customers into certain groups
 ### Classification
 The classification use case deals with detecting fraudulent transactions
 
