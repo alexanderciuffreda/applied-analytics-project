@@ -1,6 +1,5 @@
 # applied-analytics-project
-## Examination for module 338005a Applied Analytics
-### by alexander ciuffreda, matriculation number 37262 
+### by alexander ciuffreda 
 ## Use case overview
 Three use cases for different ML methods are addressed in the context of the payment service provider PayPal.
 ### Regression
