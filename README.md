@@ -13,7 +13,6 @@ The classification use case deals with detecting fraudulent transactions
 ## Dataset
 Unfortunately there was no suitable single dataset for all three use cases, so i decided to take three different datasets.
 
-One dataset is too  large for github an therefore available on my [google drive](https://drive.google.com/drive/folders/13I5RHb3IQpyMhPrg3CKIqqulnrcDbVku?usp=sharing)
 
 ## Notebooks
 Each notebook is rendered as HTML and in the corresponding use case folder with the prefix ``nb_converted``.
